@@ -38,7 +38,7 @@ else{
 
 <div class="container-fluid">
     <div class="row table-responsive">
-        <table id="cryptoTable" class="table table-bordered">
+        <table id="cryptoTable" class="table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
                     <th>Name</th>
