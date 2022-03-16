@@ -1,4 +1,6 @@
-
+        <div class="footer">
+            <strong class="m-0 m-auto d-table pt-3">Copyright &copy 2022 All right reserved</strong>
+        </div>
     </body>
 
     <script src='https://code.jquery.com/jquery-3.5.1.js'></script>
